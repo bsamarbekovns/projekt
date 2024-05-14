@@ -28,7 +28,7 @@ const moveLeftChildBlock = () => {
         childBlock.style.left = `${moveLeft}px`
         requestAnimationFrame(moveLeftChildBlock)
 
-    }
+        git add .  }
 }
 
 
